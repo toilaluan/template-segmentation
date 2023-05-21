@@ -1,0 +1,7 @@
+*.tif
+*.png
+*.jpg
+*.ckpt
+train_logs/
+dataset/
+__pycache__/
